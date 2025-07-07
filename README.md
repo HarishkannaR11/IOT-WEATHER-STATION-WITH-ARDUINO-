@@ -10,6 +10,11 @@ An IoT-based real-time weather monitoring system developed using Arduino and env
 This weather station gathers environmental data using sensors and transmits the information over Wi-Fi using the ESP8266 module (or NodeMCU). The data can be viewed via serial monitor, LCD/OLED display, or a custom-built Android application (`weather.apk` included in repo).
 
 ---
+## Block diagram:
+![image](https://github.com/user-attachments/assets/24ca0f7d-50cc-46f7-a3b6-eec3c3fe0e72)
+
+## Circuit diagram:
+![image](https://github.com/user-attachments/assets/88a18d5c-0f4d-4e96-8b9c-3ff95be7fd02)
 
 ## ⚙️ Features
 
