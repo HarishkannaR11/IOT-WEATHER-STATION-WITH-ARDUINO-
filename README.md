@@ -36,6 +36,10 @@ This weather station gathers environmental data using sensors and transmits the 
  ┣ 📜 Report.docx
  ┣ 📜 README.md
  ┣ 📱 weather.apk
+ ┣ if_you_want_to_run_on_Blynk.cpp
+ ┣ Synonpsis.docx
+
+
 
 
 ---
